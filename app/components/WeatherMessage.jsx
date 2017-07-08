@@ -11,5 +11,5 @@ var WeatherMessage = ({temp, location}) => {
 				
 		</div>
 	)
-}
+};
 module.exports = WeatherMessage;
